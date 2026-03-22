@@ -1,0 +1,17 @@
+{
+  "name": "IRONLOG",
+  "short_name": "IRONLOG",
+  "description": "Premium Gym Tracker + Social Hub",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0c0b0a",
+  "theme_color": "#0c0b0a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%230c0b0a'/><text x='50' y='55' text-anchor='middle' dominant-baseline='middle' font-size='50' font-family='serif' fill='%23c2956a'>IL</text></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
